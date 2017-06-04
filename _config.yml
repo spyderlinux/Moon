@@ -1,14 +1,14 @@
 # Site
-title:              Moon
+title:              Base de Conteudo - GNU/Linux
 bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+description:        "Descrição de diversos conteúdos LINUX"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://taylantatli.github.io/Moon
+url:                https://spyderlinux.github.io
 
 # Jekyll
 permalink:          /:title/
@@ -37,20 +37,20 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
-twitter:            username
-facebook:           username
-github-url:         username
+email:              rodrigo.rodrigom@gmail.com
+twitter:            @spyderlinux
+facebook:           facebook.com/spyderlinux
+github-url:         https://github.com/spyderlinux
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:           https://www.linkedin.com/in/rodrigogmorais/
 #xing:              username
-instagram:          username
+#instagram:          username
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
-#pinterest:         username
+pinterest:          spyderlinux@gmail.com 
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
